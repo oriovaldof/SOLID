@@ -1,0 +1,15 @@
+{
+    "name": "ori/app_mensageiro",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oriovaldo Fialho",
+            "email": "oriovaldof@gmail.com"
+        }
+    ],
+    "require": {}
+}
